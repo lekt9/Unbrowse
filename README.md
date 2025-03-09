@@ -1,30 +1,56 @@
-# >be me, tired of manual browsing  
-# >create Unbrowse, browser launcher that learns API interactions  
-# >turns websites into tool calls, MCP-style  
-# >abilities learned once, shared across all users (credentials stored locally tho)  
-# >finally automate browsing tasks and debug sites like a chad  
+# Unbrowse 🚀
 
-## >how to use this thing  
->press power button to connect chrome browser  
->browse your target website normally  
->tell Unbrowse to learn abilities from the site you're on  
->now prompt your agent to use these abilities (tool calls ftw)  
->connect cursor IDE or other MCP clients to Unbrowse MCP for max comfy  
+**Turn your browser interactions into reusable AI tool calls.**
 
-## >regular use cases (normie mode)  
->automate boring research like stock info, options, earnings data, etc.  
+Unbrowse is a smart browser launcher that learns how your browser interacts with web APIs, turning these interactions into reusable AI-powered abilities. You can then use these abilities directly within the built-in agent or connect them via Model Context Protocol (MCP) to your favorite MCP-compatible clients (like Cursor IDE).
 
-## >MCP use cases (dev mode)  
->teach Unbrowse how your own website works  
->connect via MCP to live test and debug your site directly from cursor agent  
+---
 
-## >features (tl;dr)  
-- learns browser API interactions automatically  
-- converts browsing into reusable tool calls (abilities)  
-- abilities indexed and shared among all users  
-- local credential storage for privacy  
+## How does it work?
 
-## >future plans?  
-- build massive index of abilities for ultimate comfy browsing automation  
+1. **Connect to Chrome**
+   - Launch Unbrowse and press the **power button** to connect it to your Chrome browser.
 
->mfw never manually browse again
+2. **Browse Normally**
+   - Navigate to the website you want Unbrowse to learn from.
+
+3. **Teach Abilities**
+   - Tell Unbrowse explicitly to learn abilities from the current website. It will automatically identify and store interactions as reusable tool calls.
+
+4. **Use Learned Abilities**
+   - Prompt the built-in agent or connect via MCP clients (like Cursor IDE) to use these learned abilities, automating your browsing tasks effortlessly.
+
+---
+
+## Example Use Cases
+
+### Regular Everyday Tasks
+- **Stock Market Research:** Automate fetching stock prices, options data, earnings reports, and more directly from financial websites.
+- **Information Gathering:** Quickly automate repetitive browsing tasks like checking weather, news headlines, or product prices.
+
+### Developer & MCP Integration
+- **Website Debugging & Testing:** Teach Unbrowse how your own website works, then connect via MCP to live-test and debug directly within your development environment (e.g., Cursor IDE).
+- **AI-Assisted Development:** Integrate learned API interactions into AI workflows for faster debugging and prototyping.
+
+---
+
+## Key Features
+
+- ✅ **Automatic Learning:** Converts regular browsing interactions into reusable AI tool calls.
+- ✅ **Built-in Agent:** Use learned abilities directly within Unbrowse's integrated agent.
+- ✅ **MCP Compatibility:** Expose learned abilities via Model Context Protocol for integration with external MCP-compatible clients.
+- ✅ **Shared Abilities Index:** Benefit from community-shared abilities across all users.
+- ✅ **Local Credential Storage:** Securely stores credentials locally—your privacy matters!
+
+---
+
+## Coming Soon
+
+We're actively building a comprehensive index of shared abilities, enabling seamless automation across countless websites and APIs. Stay tuned!
+
+---
+
+**Happy Unbrowsing! ✨**
+
+---
+Answer from Perplexity: pplx.ai/share
