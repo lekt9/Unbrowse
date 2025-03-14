@@ -51,6 +51,3 @@ We're actively building a comprehensive index of shared abilities, enabling seam
 ---
 
 **Happy Unbrowsing! ✨**
-
----
-Answer from Perplexity: pplx.ai/share
